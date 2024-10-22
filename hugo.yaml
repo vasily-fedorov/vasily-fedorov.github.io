@@ -52,7 +52,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: '<i class="fa fa-home" aria-hidden="true"></i>'
     icon: /apple-touch-icon.png
     iconHeight: 35
 
