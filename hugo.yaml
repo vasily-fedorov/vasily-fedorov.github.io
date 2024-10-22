@@ -26,8 +26,8 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
-#  ShareButtons: ["whatsapp", "telegram"]
+  ShowShareButtons: false
+  ShareButtons: ["whatsapp", "telegram"]
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
