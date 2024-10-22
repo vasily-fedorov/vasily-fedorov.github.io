@@ -27,7 +27,7 @@ params:
 
   ShowReadingTime: true
   ShowShareButtons: true
-  ShareButtons: ["whatsapp", "telegram"]
+#  ShareButtons: ["whatsapp", "telegram"]
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
