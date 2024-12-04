@@ -75,6 +75,7 @@ params:
   homeInfoParams:
     Title: "Привет \U0001F44B"
     Content: "Заметки по работе
+    <br/>
     <ul>
     <li>Группа для обсуждения: https://t.me/+Ba8dcK3reOllNGIy</li>
     </ul>"
