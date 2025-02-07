@@ -79,10 +79,10 @@ params:
   socialIcons:
     - name: telegram
       url: "https://t.me/vasily_fedorov"
-#    - name: habr
-#      url: "https://habr.com/ru"
     - name: github
       url: "https://github.com/vasily-fedorov"
+#    - name: habr
+#      url: "https://habr.com/ru/users/fvv/"
 
   analytics:
     google:
